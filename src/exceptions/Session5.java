@@ -1,7 +1,5 @@
 package exceptions;
 
-import java.io.IOException;
-
 public class Session5 {
 
 	public static void div() throws Exception {
@@ -33,11 +31,8 @@ public class Session5 {
 		try {
 			Session5.div();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		// TODO Auto-generated catch block
-
 	}
 
 }

@@ -17,13 +17,13 @@ public class Car {
 	protected void park() {
 
 	}
-	
+
 	public void engine() {
 		System.out.println("ICE");
 	}
-	
+
 	public static void main(String[] args) {
-		
-		
+
+
 	}
 }

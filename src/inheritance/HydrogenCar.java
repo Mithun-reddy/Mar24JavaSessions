@@ -1,12 +1,12 @@
 package inheritance;
 
 public class HydrogenCar  {
-	
+
 	private int wheels;
-	
+
 	private String name = "Merc";
-	
-	
+
+
 	/**
 	 * @return the wheels
 	 */
